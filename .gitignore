@@ -1,0 +1,63 @@
+# ===== Windows System Files =====
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ===== Logs and Temporary Files =====
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ===== Build Artifacts (C/C++) =====
+*.obj
+*.exe
+*.pdb
+*.dll
+*.lib
+*.exp
+*.ilk
+*.sdf
+*.opensdf
+*.tlog
+*.idb
+*.pch
+*.res
+*.manifest
+*.cachefile
+*.jou
+*.log
+
+# ===== Build Directories =====
+Debug/
+Release/
+x64/
+build/
+bin/
+out/
+
+# ===== IDE / Editor Files =====
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ===== Python (if present) =====
+__pycache__/
+*.py[cod]
+env/
+venv/
+
+# ===== Node / JS (if applicable) =====
+node_modules/
+coverage/
+dist/
+.cache/
+
+# ===== Custom Directories =====
+hcd_full_dse_project/
+logs/
